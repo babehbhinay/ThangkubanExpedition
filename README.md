@@ -1,4 +1,9 @@
---[[
+## 👤 About the Developer
+- **Nama:** Rozak Subagja
+- **Role:** Roblox Luau Programmer  
+- **Email:** Babehbhinay31@gmail.com
+- **CV:** [Download CV (PDF)](https://drive.google.com/file/d/1Z5-IZraEJA6CvJuy5nZkjJP_XZvoW13O/view?usp=drive_link)
+- **Game:** [Thangkuban Expedition](https://www.roblox.com/id/games/110963911512584/Ekspedisi-Thangkuban)
 # Thangkuban Expedition - Technical Portfolio
 
 > **Role:** Lead Programmer  
